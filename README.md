@@ -4,13 +4,13 @@ A smooth, responsive implementation of the classic 2048 game using pure HTML, CS
 
 经典2048游戏的流畅响应式实现，使用纯HTML、CSS和JavaScript开发。
 
-[![GitHub stars](https://img.shields.io/github/stars/aidengws/2048.svg)](https://github.com/aidengws/2048/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/aidengws/2048.svg)](https://github.com/aidengws/2048/network)
-[![GitHub license](https://img.shields.io/github/license/aidengws/2048.svg)](https://github.com/aidengws/2048/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/ai-dengwsh/2048-game.svg)](https://github.com/ai-dengwsh/2048-game/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ai-dengwsh/2048-game.svg)](https://github.com/ai-dengwsh/2048-game/network)
+[![GitHub license](https://img.shields.io/github/license/ai-dengwsh/2048-game.svg)](https://github.com/ai-dengwsh/2048-game/blob/master/LICENSE)
 
-> Created by aidengws - Exploring the intersection of AI and Web Development
+> Created by ai-dengwsh - Exploring the intersection of AI and Web Development
 >
-> 由 aidengws 创建 - 探索人工智能与网络开发的交汇处
+> 由 ai-dengwsh 创建 - 探索人工智能与网络开发的交汇处
 
 [English](#english) | [中文](#chinese)
 
@@ -40,7 +40,7 @@ A smooth, responsive implementation of the classic 2048 game using pure HTML, CS
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/aidengws/2048.git
+git clone https://github.com/ai-dengwsh/2048-game.git
 ```
 
 2. Open `index.html` in your web browser
@@ -84,7 +84,7 @@ git clone https://github.com/aidengws/2048.git
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/aidengws/2048.git
+git clone https://github.com/ai-dengwsh/2048-game.git
 ```
 
 2. 在浏览器中打开 `index.html`
